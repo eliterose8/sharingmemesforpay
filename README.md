@@ -1,1 +1,2 @@
 # sharingmemesforpay
+jekyll new blog
